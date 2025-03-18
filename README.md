@@ -7,3 +7,8 @@ A clean, responsive, and animated portfolio webpage built with HTML, CSS, and Ja
 - **Responsive Design**: Adapts to all screen sizes (desktop, tablet, mobile) with a hamburger menu on mobile.
 - **Sections**: Includes About, Featured Projects, Downloads, and Contact.
 - **GitHub Pages Ready**: Deployable as a live site.
+  
+## Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/DamilareAde/simple-portfolio.git
